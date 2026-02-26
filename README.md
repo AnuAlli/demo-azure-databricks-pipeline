@@ -2,7 +2,7 @@
 
 An interactive Streamlit application demonstrating an end-to-end **Azure Databricks + Delta Lake ETL pipeline** — from raw data ingestion through PySpark transformations to production-grade data quality monitoring.
 
-**[View Live Demo]([https://anualli-demo-azure-databricks-pipeline.streamlit.app](https://anualli-demo-azure-databricks-pipeline-app-or1vry.streamlit.app/))**
+**[View Live Demo](https://anualli-demo-azure-databricks-pipeline-app-or1vry.streamlit.app/)**
 
 ---
 
